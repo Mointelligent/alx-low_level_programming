@@ -4,3 +4,4 @@ Task 2: prints alphabet a-z in lowercase x10 using _ putchar followd by a new li
 Task 3: Runs a check to see if the argument passed in _ islower() function is lowercase.
 Task 4: Runs a check to see if the argument is uppercase, lowercase or otherwise.
 Task 5: Runs a check to see if the argument in the functions is positive, negative or otherwise.
+Task 6: converts and prints the absolute value of an integer.
