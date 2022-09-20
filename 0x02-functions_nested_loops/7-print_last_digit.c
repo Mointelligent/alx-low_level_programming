@@ -2,7 +2,7 @@
 
 /**
  * print_last_digit - This program returns the last number of the argument.
- * @digit: The last number is extracted from this argument.
+ * @n: The last number is extracted from this argument.
  *
  * Return: value
  */
