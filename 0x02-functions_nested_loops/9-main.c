@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * main - Check your code
+ * main - Check the code
  *
  * Return: Always 0
  */
 
 int main(void)
 {
-	void times_table();
+	times_table();
 	return (0);
 }
