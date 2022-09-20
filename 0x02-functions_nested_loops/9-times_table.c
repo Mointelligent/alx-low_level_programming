@@ -20,7 +20,7 @@ void times_table(void)
 			int first = result / 10;
 			int second = result % 10;
 
-			if (result < 10)
+			if (result < 10 && multi > 0)
 			{
 				_putchar(' ');
 			}
