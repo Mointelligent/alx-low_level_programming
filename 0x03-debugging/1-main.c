@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- * main - causes an infinite loop don’t delete it!
+ * main - (don’t delete it!)causes an infinite loop
  * Return: 0
  */
 
