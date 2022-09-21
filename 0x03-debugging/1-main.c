@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
- * main - don't delete it!
+ * main - (don't delete it!)
  * Return: 0
  */
 
